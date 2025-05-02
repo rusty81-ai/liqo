@@ -36,7 +36,7 @@
         "clsx": "^2.1.1",
         "date-fns": "^4.1.0",
         "drizzle-kit": "^0.31.0",
-        "drizzle-orm": "^0.41.0-29155cc",
+        "drizzle-orm": "0.41.0-29155cc",
         "error-stack-parser": "^2.1.4",
         "eslint": "^8.57.0",
         "eslint-config-next": "^15.0.1",
